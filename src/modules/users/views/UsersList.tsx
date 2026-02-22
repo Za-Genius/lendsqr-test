@@ -10,7 +10,7 @@ const UsersList = () => {
     // setLoading(true);
     fetch("https://api.json-generator.com/templates/30C9q8oYFLjH/data", {
       headers: {
-        Authorization: "Bearer jbn3f6m14thhlr9qi6wnf619jo4dcloyi3y55izt",
+        Authorization: "Bearer cltg2g4yd0dv0abah7q8cixvcnugrblv4hebsu75",
       },
     })
       .then((res) => res.json())
